@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.mycompany.mavenproject1.branding">
+    <module_version install_time="1482401323665" last="true" origin="installer" specification_version="1.0">
+        <file crc="2840165007" name="config/Modules/com-mycompany-mavenproject1-branding.xml"/>
+        <file crc="1180517664" name="core/locale/core_mavenproject1.jar"/>
+        <file crc="3224476634" name="modules/com-mycompany-mavenproject1-branding.jar"/>
+        <file crc="2437810604" name="modules/locale/org-netbeans-core-windows_mavenproject1.jar"/>
+        <file crc="860445968" name="modules/locale/org-netbeans-core_mavenproject1.jar"/>
+        <file crc="1166335307" name="update_tracking/com-mycompany-mavenproject1-branding.xml"/>
+    </module_version>
+</module>
